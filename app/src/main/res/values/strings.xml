@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">نرم‌افزار شهرداری دماوند</string>
+    <string name="action_settings">تنظیمات</string>
+    <string name="action_connection">ارتباط</string>
+    <string name="action_help">راهنما</string>
+    <string name="title_activity_second">خدمات</string>
+    <string name="List_Item_0">"اندروید"</string>
+    <string name="List_Item_1">"آیفون"</string>
+    <string name="List_Item_2">"ویندوز موبایل"</string>
+    <string name="List_Item_3">"بلک بری"</string>
+    <string name="List_Item_4">"وب او اس"</string>
+    <string name="List_Item_5">"اوبونتو"</string>
+    <string name="List_Item_6">"ویندوز 7"</string>
+    <string name="List_Item_7">"ماکس او اس ایکس"</string>
+</resources>

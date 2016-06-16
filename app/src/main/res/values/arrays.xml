@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="main_list">
+        <item>@string/List_Item_0</item>
+        <item>@string/List_Item_1</item>
+        <item>@string/List_Item_2</item>
+        <item>@string/List_Item_3</item>
+        <item>@string/List_Item_4</item>
+        <item>@string/List_Item_5</item>
+    </string-array>
+    
+</resources>
