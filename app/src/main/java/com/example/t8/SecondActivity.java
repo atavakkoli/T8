@@ -20,9 +20,6 @@ public class SecondActivity extends AppCompatActivity {
 //    String[] mobileArray = {"Android", "iPhone", "WindowsMobile", "Blackberry", "WebOS", "Ubuntu", "Windows7", "Max OS X"};
 
 
-
-
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
